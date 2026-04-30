@@ -9,6 +9,6 @@ database_URL = URL.create(
     database="payroll-api"
 )
 
-engine = create_engine(database_URL)
+engine = create_engine(database_URL, echo=True)
 Session = sessionmaker(bind=engine)
 Base = declarative_base()
