@@ -1,6 +1,7 @@
 from sqlalchemy import Boolean, Column, Float, Integer, String, Date, ForeignKey
 from database import Base
 
+
 class Employee(Base):
     __tablename__ = "employees"
 
@@ -16,20 +17,11 @@ class Employee(Base):
     tax_class = Column(Integer)
     child_allowance = Column(Float)
     denomination = Column(String)
-    contract_start = Column(Date)
-    contract_end = Column(Date)
-    last_contract_start = Column(Date)
-    last_contract_end = Column(Date)
-    work_permit_type = Column(String) # limited or unlimited
     work_permit_end = Column(Date)
-    permanent_residence_permit = Column(Boolean)
     residence_permit_end = Column(Date)
     social_security_number = Column(String)
     tax_id = Column(String)
     payment_method = Column(String) # cash or bank transfer
-    salary_type = Column(String) # fixed or hourly
-    salary = Column(Float)
-    is_active = Column(Boolean)
     created_by = Column(Integer, ForeignKey("users.id"))
 
     def __str__(self):
@@ -77,4 +69,13 @@ class Role(Base):
         return self.role_name
 
 
+class Contract(Base):
+    __tablename__ = "contracts"
 
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    employee_id = Column(Integer, ForeignKey("employees.id"))
+    contract_start = Column(Date)
+    contract_end = Column(Date)
+    salary_type = Column(String)
+    fixed_salary = Column(Float)
+    hourly_rate = Column(Float)
