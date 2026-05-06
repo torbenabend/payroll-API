@@ -4,7 +4,6 @@ from sqlalchemy import Integer, String, ForeignKey
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from db.database import Base
-from models import WorkLog, Role
 
 
 class User(Base):

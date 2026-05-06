@@ -5,7 +5,6 @@ from sqlalchemy import Float, Integer, String, Date,DateTime, ForeignKey
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from db.database import Base
-from models import Employee, User
 
 
 class WorkLog(Base):

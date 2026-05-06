@@ -4,7 +4,6 @@ from sqlalchemy import Integer, String, Boolean
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from db.database import Base
-from models import User
 
 
 class Role(Base):
