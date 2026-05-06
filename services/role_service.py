@@ -1,5 +1,5 @@
 from models import Role
-from repositories import RoleRepository
+from repositories.role_repository import RoleRepository
 
 class RoleService:
     def __init__(self, repository: RoleRepository):
