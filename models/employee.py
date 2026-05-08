@@ -1,10 +1,12 @@
 from __future__ import annotations
 from datetime import date, datetime
 
-from sqlalchemy import Float, Integer, String, Date,DateTime, ForeignKey
+from sqlalchemy import (Float, Integer, String, Date,DateTime, ForeignKey,
+                        Enum as SQLEnum)
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from db.database import Base
+from models.enums.payment_method import PaymentMethod
 
 
 class Employee(Base):
@@ -50,7 +52,10 @@ class Employee(Base):
     )
 
     # Payment information
-    payment_method: Mapped[str] = mapped_column(String, nullable=False) # cash or bank transfer
+    payment_method: Mapped[PaymentMethod] = mapped_column(
+        SQLEnum(PaymentMethod),
+        nullable=False
+    )
     iban: Mapped[str | None] = mapped_column(String, nullable=True)
 
     # Audit fields

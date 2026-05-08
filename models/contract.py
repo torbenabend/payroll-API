@@ -1,10 +1,12 @@
 from __future__ import annotations
 from datetime import date, datetime
 
-from sqlalchemy import Float, Integer, String, Date, DateTime, ForeignKey
+from sqlalchemy import (Float, Integer, String, Date, DateTime, ForeignKey,
+                        Enum as SQLEnum)
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from db.database import Base
+from models.enums.salary_type import SalaryType
 
 
 class Contract(Base):
@@ -20,7 +22,10 @@ class Contract(Base):
     # Contract data
     contract_start: Mapped[date] = mapped_column(Date, nullable=False)
     contract_end: Mapped[date | None] = mapped_column(Date, nullable=True)
-    salary_type: Mapped[str] = mapped_column(String, nullable=False)
+    salary_type: Mapped[SalaryType] = mapped_column(
+        SQLEnum(SalaryType),
+        nullable=False
+    )
     fixed_salary: Mapped[float | None] = mapped_column(Float, nullable=True)
     hourly_rate: Mapped[float | None] = mapped_column(Float, nullable=True)
 
