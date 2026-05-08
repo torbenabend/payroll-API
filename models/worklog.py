@@ -10,21 +10,34 @@ from db.database import Base
 class WorkLog(Base):
     __tablename__ = "worklogs"
 
+    # Primary key
     id: Mapped[int] = mapped_column(
-        Integer, primary_key=True, autoincrement=True
+        Integer,
+        primary_key=True,
+        autoincrement=True
     )
-    employee_id: Mapped[int] = mapped_column(
-        Integer, ForeignKey("employees.id")
+
+    # Shift data
+    date: Mapped[date] = mapped_column(Date, nullable=False)
+    hours_early_shift: Mapped[float] = mapped_column(Float, nullable=True)
+    hours_late_shift: Mapped[float] = mapped_column(Float, nullable=True)
+    hours_night_shift: Mapped[float] = mapped_column(Float, nullable=True)
+    weekday: Mapped[str] = mapped_column(String, nullable=False)
+    day_type: Mapped[str] = mapped_column(String, nullable=False) # normal, public_holiday, sick or vacation
+    mission_related_allowance: Mapped[float] = mapped_column(
+        Float,
+        nullable=True
     )
-    date: Mapped[date] = mapped_column(Date)
-    hours_early_shift: Mapped[float] = mapped_column(Float)
-    hours_late_shift: Mapped[float] = mapped_column(Float)
-    hours_night_shift: Mapped[float] = mapped_column(Float)
-    mission_related_allowance: Mapped[float] = mapped_column(Float)
-    weekday: Mapped[str] = mapped_column(String)
-    day_type: Mapped[str] = mapped_column(String) # normal, public_holiday, sick or vacation
+
+    # Audit fields
     updated_by: Mapped[int] = mapped_column(Integer, ForeignKey("users.id"))
     updated_at: Mapped[datetime] = mapped_column(DateTime)
 
+    # Foreign key
+    employee_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("employees.id")
+    )
+
+    # Relationships
     employee: Mapped["Employee"] = relationship(back_populates="worklogs")
     user: Mapped["User"] = relationship(back_populates="worklog_entries")

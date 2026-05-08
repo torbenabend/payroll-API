@@ -9,12 +9,20 @@ from db.database import Base
 class Role(Base):
     __tablename__ =  "roles"
 
-    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
-    role_name: Mapped[str] = mapped_column(String)
-    read_employee_data: Mapped[bool] = mapped_column(Boolean)
-    edit_employee_data: Mapped[bool] = mapped_column(Boolean)
-    process_payroll: Mapped[bool] = mapped_column(Boolean)
+    # Primary key
+    id: Mapped[int] = mapped_column(
+        Integer,
+        primary_key=True,
+        autoincrement=True
+    )
 
+    # Role information
+    role_name: Mapped[str] = mapped_column(String, nullable=False, unique=True)
+    read_employee_data: Mapped[bool] = mapped_column(Boolean, nullable=False)
+    edit_employee_data: Mapped[bool] = mapped_column(Boolean, nullable=False)
+    process_payroll: Mapped[bool] = mapped_column(Boolean, nullable=False)
+
+    # Relationships
     users: Mapped[list["User"]] = relationship(back_populates="role")
 
     def __str__(self):
