@@ -1,5 +1,6 @@
 from .base_repository import BaseRepository
-from models import WorkLog
+from models import WorkLog, WorkLogDB
 
 class WorkLogRepository(BaseRepository[WorkLog]):
-    model = WorkLog
+    model = WorkLogDB
+    schema = WorkLog

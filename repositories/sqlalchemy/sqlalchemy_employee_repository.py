@@ -1,9 +1,10 @@
 from .sqlalchemy_base_repository import SqlAlchemyBaseRepository
 from repositories.employee_repository import EmployeeRepository
-from models import Employee
+from models import Employee, EmployeeDB
 
 
 class SqlAlchemyEmployeeRepository(
-    SqlAlchemyBaseRepository[Employee], EmployeeRepository
+    SqlAlchemyBaseRepository[EmployeeDB], EmployeeRepository
 ):
-    model = Employee
+    model = EmployeeDB
+    schema = Employee

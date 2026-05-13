@@ -1,7 +1,7 @@
 from __future__ import annotations
 from datetime import date, datetime
 
-from sqlalchemy import (Float, Integer, String, Date, DateTime, ForeignKey,
+from sqlalchemy import (Float, Integer, Date, DateTime, ForeignKey,
                         Enum as SQLEnum)
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
@@ -9,7 +9,7 @@ from db.database import Base
 from models.enums.salary_type import SalaryType
 
 
-class Contract(Base):
+class ContractDB(Base):
     __tablename__ = "contracts"
 
     # Primary key
@@ -43,4 +43,4 @@ class Contract(Base):
     )
 
     # Relationships
-    employee: Mapped["Employee"] = relationship(back_populates="contracts")
+    employee: Mapped["EmployeeDB"] = relationship(back_populates="contracts")

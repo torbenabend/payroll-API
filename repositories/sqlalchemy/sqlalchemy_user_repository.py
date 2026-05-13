@@ -1,9 +1,10 @@
 from .sqlalchemy_base_repository import SqlAlchemyBaseRepository
 from repositories.user_repository import UserRepository
-from models import User
+from models import User, UserDB
 
 
 class SqlAlchemyUserRepository(
-    SqlAlchemyBaseRepository[User], UserRepository
+    SqlAlchemyBaseRepository[UserDB], UserRepository
 ):
-    model = User
+    model = UserDB
+    schema = User

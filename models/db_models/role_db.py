@@ -6,7 +6,7 @@ from sqlalchemy.orm import Mapped, mapped_column, relationship
 from db.database import Base
 
 
-class Role(Base):
+class RoleDB(Base):
     __tablename__ =  "roles"
 
     # Primary key
@@ -23,7 +23,7 @@ class Role(Base):
     process_payroll: Mapped[bool] = mapped_column(Boolean, nullable=False)
 
     # Relationships
-    users: Mapped[list["User"]] = relationship(back_populates="role")
+    users: Mapped[list["UserDB"]] = relationship(back_populates="role")
 
     def __str__(self):
         return self.role_name

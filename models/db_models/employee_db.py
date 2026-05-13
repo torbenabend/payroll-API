@@ -9,7 +9,7 @@ from db.database import Base
 from models.enums.payment_method import PaymentMethod
 
 
-class Employee(Base):
+class EmployeeDB(Base):
     __tablename__ = "employees"
 
     # Primary key
@@ -23,7 +23,7 @@ class Employee(Base):
     last_name: Mapped[str] = mapped_column(String, nullable=False)
     first_name: Mapped[str] = mapped_column(String, nullable=False)
     birth_date: Mapped[date] = mapped_column(Date, nullable=False)
-    tax_id: Mapped[str] = mapped_column(String, nullable=True, unique=True)
+    tax_id: Mapped[str | None] = mapped_column(String, nullable=True, unique=True)
     social_security_number: Mapped[str | None] = mapped_column(
         String,
         nullable=True,
@@ -38,8 +38,8 @@ class Employee(Base):
 
     # Payroll data
     tax_class: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    child_allowance: Mapped[float] = mapped_column(Float, nullable=True)
-    denomination: Mapped[str] = mapped_column(String, nullable=True)
+    child_allowance: Mapped[float | None] = mapped_column(Float, nullable=True)
+    denomination: Mapped[str | None] = mapped_column(String, nullable=True)
 
     # Legal information
     work_permit_end: Mapped[date | None] = mapped_column(
@@ -66,10 +66,10 @@ class Employee(Base):
     updated_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
 
     # Relationships
-    contracts: Mapped[list["Contract"]] = relationship(
+    contracts: Mapped[list["ContractDB"]] = relationship(
         back_populates="employee"
     )
-    worklogs: Mapped[list["WorkLog"]] = relationship(back_populates="employee")
+    worklogs: Mapped[list["WorkLogDB"]] = relationship(back_populates="employee")
 
     def __str__(self):
         return f"{self.last_name}, {self.first_name} (Employee-ID: {self.id})"

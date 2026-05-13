@@ -5,6 +5,7 @@ T = TypeVar("T")
 
 class BaseRepository(ABC, Generic[T]):
     model: Type[T]
+    schema: Type[T]
 
     @abstractmethod
     def add(self, entity: T) -> T:

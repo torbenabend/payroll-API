@@ -6,7 +6,7 @@ from sqlalchemy.orm import Mapped, mapped_column, relationship
 from db.database import Base
 
 
-class User(Base):
+class UserDB(Base):
     __tablename__ = "users"
 
     # Primary key
@@ -33,8 +33,8 @@ class User(Base):
     )
 
     # Relationships
-    role: Mapped["Role"] = relationship(back_populates="users")
-    worklog_entries: Mapped[list["WorkLog"]] = relationship(
+    role: Mapped["RoleDB"] = relationship(back_populates="users")
+    worklog_entries: Mapped[list["WorkLogDB"]] = relationship(
         back_populates="user"
     )
 

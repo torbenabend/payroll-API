@@ -1,9 +1,10 @@
 from .sqlalchemy_base_repository import SqlAlchemyBaseRepository
 from repositories.contract_repository import ContractRepository
-from models import Contract
+from models import Contract, ContractDB
 
 
 class SqlAlchemyContractRepository(
-    SqlAlchemyBaseRepository[Contract], ContractRepository
+    SqlAlchemyBaseRepository[ContractDB], ContractRepository
 ):
-    model = Contract
+    model = ContractDB
+    schema = Contract

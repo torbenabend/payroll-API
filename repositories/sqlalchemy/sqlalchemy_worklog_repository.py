@@ -1,9 +1,10 @@
 from .sqlalchemy_base_repository import SqlAlchemyBaseRepository
 from repositories.worklog_repository import WorkLogRepository
-from models import WorkLog
+from models import WorkLog, WorkLogDB
 
 
-class SqlAlchemyWorkLogRepository(
-    SqlAlchemyBaseRepository[WorkLog], WorkLogRepository
+class SqlAlchemyWorkLogDBRepository(
+    SqlAlchemyBaseRepository[WorkLogDB], WorkLogRepository
 ):
-    model = WorkLog
+    model = WorkLogDB
+    schema = WorkLog

@@ -9,7 +9,7 @@ from db.database import Base
 from models.enums.day_type import DayType
 
 
-class WorkLog(Base):
+class WorkLogDB(Base):
     __tablename__ = "worklogs"
 
     # Primary key
@@ -44,5 +44,5 @@ class WorkLog(Base):
     )
 
     # Relationships
-    employee: Mapped["Employee"] = relationship(back_populates="worklogs")
-    user: Mapped["User"] = relationship(back_populates="worklog_entries")
+    employee: Mapped["EmployeeDB"] = relationship(back_populates="worklogs")
+    user: Mapped["UserDB"] = relationship(back_populates="worklog_entries")

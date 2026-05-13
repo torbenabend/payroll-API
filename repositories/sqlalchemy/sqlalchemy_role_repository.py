@@ -1,13 +1,14 @@
-from typing import Sequence, Optional
+from typing import Sequence
 from sqlalchemy import select
 from .sqlalchemy_base_repository import SqlAlchemyBaseRepository
 from repositories.role_repository import RoleRepository
-from models import Role
+from models import Role, RoleDB
 
 
-class SqlAlchemyRoleRepository(SqlAlchemyBaseRepository[Role], RoleRepository):
-    model = Role
+class SqlAlchemyRoleRepository(SqlAlchemyBaseRepository[RoleDB], RoleRepository):
+    model = RoleDB
+    schema = Role
 
     def get_role_names(self) -> Sequence[str]:
-        stmt = select(Role.role_name)
+        stmt = select(RoleDB.role_name)
         return self.session.execute(stmt).scalars().all()
