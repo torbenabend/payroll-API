@@ -1,8 +1,10 @@
 from datetime import date, datetime
+from typing import Annotated
 
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, BeforeValidator
 
 from models.enums.day_type import DayType
+from models.validators.common import parse_date, parse_datetime
 
 
 class WorkLog(BaseModel):
@@ -10,7 +12,7 @@ class WorkLog(BaseModel):
 
     id: int | None = None
 
-    date: date
+    date: Annotated[date, BeforeValidator(parse_date)]
     hours_early_shift: float | None = None
     hours_late_shift: float | None = None
     hours_night_shift: float | None = None
@@ -19,6 +21,6 @@ class WorkLog(BaseModel):
     mission_related_allowance: float | None = None
 
     updated_by: int
-    updated_at: datetime
+    updated_at: Annotated[datetime, BeforeValidator(parse_datetime)]
 
     employee_id: int
