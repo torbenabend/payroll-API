@@ -3,7 +3,7 @@ from repositories.worklog_repository import WorkLogRepository
 from models import WorkLog, WorkLogDB
 
 
-class SqlAlchemyWorkLogDBRepository(
+class SqlAlchemyWorkLogRepository(
     SqlAlchemyBaseRepository[WorkLogDB], WorkLogRepository
 ):
     model = WorkLogDB
