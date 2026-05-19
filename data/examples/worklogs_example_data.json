@@ -1,0 +1,6002 @@
+[
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "08/03/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "21/03/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "28/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "03/05/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 1
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "07/03/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "15/03/2026",
+    "weekday": "Sonntag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "05/04/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "28/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 2
+  },
+  {
+    "work_date": "01/03/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "28/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "23/05/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 3
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "27/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "28/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "28/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 4
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "21/03/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "11/04/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "28/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 5
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "08/03/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "26/04/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "28/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 6
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "07/03/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "21/03/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "22/03/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "11/04/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "24/05/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 7
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "27/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "05/04/2026",
+    "weekday": "Sonntag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "10/05/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 8
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "15/03/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "12/04/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "26/04/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "09/05/2026",
+    "weekday": "Samstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Krank",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 9
+  },
+  {
+    "work_date": "02/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "03/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "04/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "05/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "06/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "09/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "10/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "11/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "12/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "13/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "16/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "17/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "18/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "19/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "20/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "23/03/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "24/03/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "25/03/2026",
+    "weekday": "Mittwoch",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "26/03/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "27/03/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "01/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "02/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "03/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "06/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "07/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "08/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "09/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "10/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "13/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "14/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "15/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "16/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "17/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "20/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "21/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "22/04/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "23/04/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "24/04/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "27/04/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "28/04/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "01/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "04/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "05/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "06/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "07/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "08/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "11/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "12/05/2026",
+    "weekday": "Dienstag",
+    "day_type": "Urlaub",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "13/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "14/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "15/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "18/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "19/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "20/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "21/05/2026",
+    "weekday": "Donnerstag",
+    "day_type": "Krank",
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "22/05/2026",
+    "weekday": "Freitag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "24/05/2026",
+    "weekday": "Sonntag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 8.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "25/05/2026",
+    "weekday": "Montag",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "26/05/2026",
+    "weekday": "Dienstag",
+    "day_type": null,
+    "hours_early_shift": 8.0,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  },
+  {
+    "work_date": "27/05/2026",
+    "weekday": "Mittwoch",
+    "day_type": null,
+    "hours_early_shift": 0.0,
+    "hours_late_shift": 8.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 10
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "contract_start": "15/03/2018",
+    "contract_end": null,
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 1
+  },
+  {
+    "contract_start": "22/09/2021",
+    "contract_end": "16/11/2026",
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 2
+  },
+  {
+    "contract_start": "10/01/2024",
+    "contract_end": null,
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 3
+  },
+  {
+    "contract_start": "01/07/2025",
+    "contract_end": null,
+    "salary_type": "Gehalt",
+    "fixed_salary": 61250.00,
+    "hourly_rate": null,
+    "employee_id": 4
+  },
+  {
+    "contract_start": "18/11/2019",
+    "contract_end": null,
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 5
+  },
+  {
+    "contract_start": "03/05/2020",
+    "contract_end": null,
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 6
+  },
+  {
+    "contract_start": "27/08/2017",
+    "contract_end": null,
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 7
+  },
+  {
+    "contract_start": "14/02/2016",
+    "contract_end": "24/07/2025",
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 8
+  },
+  {
+    "contract_start": "09/06/2022",
+    "contract_end": "11/04/2026",
+    "salary_type": "Gehalt",
+    "fixed_salary": 54800.00,
+    "hourly_rate": null,
+    "employee_id": 9
+  },
+  {
+    "contract_start": "30/10/2020",
+    "contract_end": "29/10/2025",
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 10
+  }
+]

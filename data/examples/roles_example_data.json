@@ -1,0 +1,3 @@
+[{"role_name":"admin","read_employee_data":true,"edit_employee_data":true,"process_payroll":true},
+{"role_name":"HR","read_employee_data":true,"edit_employee_data":true,"process_payroll":false},
+{"role_name":"TeamManager","read_employee_data":true,"edit_employee_data":false,"process_payroll":false}]
