@@ -29,14 +29,6 @@ class ContractDB(Base):
     fixed_salary: Mapped[float | None] = mapped_column(Float, nullable=True)
     hourly_rate: Mapped[float | None] = mapped_column(Float, nullable=True)
 
-    # Audit fields
-    updated_by: Mapped[int] = mapped_column(
-        Integer,
-        ForeignKey("users.id"),
-        nullable=False
-    )
-    updated_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
-
     # Foreign keys
     employee_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("employees.id"), nullable=False

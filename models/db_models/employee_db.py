@@ -58,18 +58,13 @@ class EmployeeDB(Base):
     )
     iban: Mapped[str | None] = mapped_column(String, nullable=True)
 
-    # Audit fields
-    updated_by: Mapped[int] = mapped_column(
-        Integer, ForeignKey("users.id"),
-        nullable=False
-    )
-    updated_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)
-
     # Relationships
     contracts: Mapped[list["ContractDB"]] = relationship(
         back_populates="employee"
     )
-    worklogs: Mapped[list["WorkLogDB"]] = relationship(back_populates="employee")
+    worklogs: Mapped[list["WorkLogDB"]] = relationship(
+        back_populates="employee"
+    )
 
     def __str__(self):
         return f"{self.last_name}, {self.first_name} (Employee-ID: {self.id})"

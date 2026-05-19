@@ -1,10 +1,10 @@
-from datetime import date, datetime
+from datetime import date
 from typing import Annotated
 
 from pydantic import BaseModel, ConfigDict, BeforeValidator
 
 from models.enums.payment_method import PaymentMethod
-from models.validators.common import parse_date, parse_datetime
+from models.validators.common import parse_date
 
 
 class Employee(BaseModel):
@@ -32,6 +32,3 @@ class Employee(BaseModel):
 
     payment_method: PaymentMethod
     iban: str | None = None
-
-    updated_by: int
-    updated_at: Annotated[datetime, BeforeValidator(parse_datetime)]

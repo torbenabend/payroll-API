@@ -34,9 +34,6 @@ class UserDB(Base):
 
     # Relationships
     role: Mapped["RoleDB"] = relationship(back_populates="users")
-    worklog_entries: Mapped[list["WorkLogDB"]] = relationship(
-        back_populates="user"
-    )
 
     def __str__(self):
         return self.username

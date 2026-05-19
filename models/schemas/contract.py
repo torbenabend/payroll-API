@@ -17,3 +17,4 @@ class Contract(BaseModel):
     salary_type: SalaryType
     fixed_salary: float | None = None
     hourly_rate: float | None = None
+    employee_id: int

@@ -1,7 +1,7 @@
 from __future__ import annotations
-from datetime import date, datetime
+from datetime import date
 
-from sqlalchemy import (Float, Integer, String, Date,DateTime, ForeignKey,
+from sqlalchemy import (Float, Integer, String, Date, ForeignKey,
                         Enum as SQLEnum)
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
@@ -34,10 +34,6 @@ class WorkLogDB(Base):
         nullable=True
     )
 
-    # Audit fields
-    updated_by: Mapped[int] = mapped_column(Integer, ForeignKey("users.id"))
-    updated_at: Mapped[datetime] = mapped_column(DateTime)
-
     # Foreign key
     employee_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("employees.id")
@@ -45,4 +41,3 @@ class WorkLogDB(Base):
 
     # Relationships
     employee: Mapped["EmployeeDB"] = relationship(back_populates="worklogs")
-    user: Mapped["UserDB"] = relationship(back_populates="worklog_entries")
