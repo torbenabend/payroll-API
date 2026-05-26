@@ -17,7 +17,7 @@ class WorkLog(BaseModel):
     hours_late_shift: float | None = None
     hours_night_shift: float | None = None
     weekday: str
-    day_type: DayType | None
+    day_type: DayType | None = None
     mission_related_allowance: float | None = None
 
     employee_id: int
