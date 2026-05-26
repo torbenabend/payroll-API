@@ -44,5 +44,4 @@ class RoleService:
 
 
     def delete_role(self, role_id: int) -> Role:
-        role = self.repository.get_by_id(role_id)
-        return self.repository.delete(role)
+        return self.repository.delete(role_id)
