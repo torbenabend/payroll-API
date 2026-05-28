@@ -49,7 +49,7 @@ def test_list_roles(service, repository,default_role):
     repository.get_entities.assert_called_once()
 
 
-def test_update_roles(service, repository, default_role):
+def test_update_role(service, repository, default_role):
     existing_role = Role(
         id=1, role_name="User", read_employee_data=False,
         edit_employee_data=False, process_payroll=False
@@ -81,3 +81,12 @@ def test_delete_role(repository, service, default_role):
 
     assert result == deleted_role
     repository.delete.assert_called_once_with(1)
+
+
+def test_get_role(repository, service, default_role):
+    repository.get_by_id.return_value = default_role
+
+    result = service.get_role(1)
+
+    assert result == default_role
+    repository.get_by_id.assert_called_once_with(1)

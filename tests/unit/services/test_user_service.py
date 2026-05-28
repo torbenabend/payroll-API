@@ -22,7 +22,7 @@ def default_user():
     )
 
 
-def test_create_employee(repository, service, default_user):
+def test_create_user(repository, service, default_user):
     repository.add.return_value = default_user
 
     result = service.create_user(
@@ -32,3 +32,53 @@ def test_create_employee(repository, service, default_user):
     assert result.username == "jdoe"
     assert result.role_id == 2
     assert result.employee_id is None
+
+
+def test_delete_user(repository, service, default_user):
+    repository.delete.return_value = default_user
+
+    result = service.delete_user(1)
+
+    assert result == default_user
+    repository.delete.assert_called_once_with(1)
+
+
+def test_get_user(repository, service, default_user):
+    repository.get_by_id.return_value = default_user
+
+    result = service.get_user(1)
+
+    assert result == default_user
+    repository.get_by_id.assert_called_once_with(1)
+
+
+def test_list_users(service, repository,default_user):
+    users = [default_user]
+
+    repository.get_entities.return_value = users
+
+    result = service.list_users()
+
+    assert result == users
+    repository.get_entities.assert_called_once()
+
+
+def test_update_user(service, repository, default_user):
+    existing_user = User(
+        id=1, username="jdoe", password="******", role_id=1, employee_id=None
+    )
+
+    repository.get_by_id.return_value = existing_user
+
+    updated_user = default_user
+
+    repository.update.return_value = updated_user
+
+    result = service.update_user(
+        user_id=1, username="jdoe", password="******", role_id=2,
+        employee_id=None
+    )
+
+    assert result.role_id == 2
+    repository.get_by_id.assert_called_once_with(1)
+    repository.update.assert_called_once()
