@@ -5,6 +5,7 @@ from datetime import date
 from services.employee_service import EmployeeService
 from models import Employee
 from models.enums.payment_method import PaymentMethod
+from models.schemas.employee_contract_info import EmployeeContractInfo
 
 
 @pytest.fixture
@@ -110,3 +111,23 @@ def test_update_employee(service, repository, default_employee):
     assert result.iban == "DE12345678"
     repository.get_by_id.assert_called_once_with(1)
     repository.update.assert_called_once()
+
+
+def test_list_active_employees(service, repository):
+    expiry_date = date(2026, 12, 31)
+    repository.get_active_employees.return_value = [
+        EmployeeContractInfo(
+            last_name="Doe", first_name="John", contract_end=date(2026,12,31)
+        ),
+        EmployeeContractInfo(
+            last_name="Miller", first_name="Glen", contract_end=None
+        )
+    ]
+
+    result = service.list_active_employees(expiry_date)
+
+    assert len(result) == 2
+    assert result[0].last_name == "Doe"
+    assert result[0].contract_end == date(2026,12,31)
+    assert result[1].contract_end is None
+    repository.get_active_employees.assert_called_once_with(expiry_date)

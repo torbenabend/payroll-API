@@ -1,9 +1,10 @@
-from datetime import date, datetime
+from datetime import date
 from typing import List
 
 from repositories.employee_repository import EmployeeRepository
 from models.schemas.employee import Employee
 from models.enums.payment_method import PaymentMethod
+from models.schemas.employee_contract_info import EmployeeContractInfo
 
 
 class EmployeeService:
@@ -98,3 +99,10 @@ class EmployeeService:
         updated_employee.payment_method=payment_method
         updated_employee.iban=iban
         return self.repository.update(updated_employee)
+
+    def list_active_employees(
+            self,
+            expiry_date: date
+    ) -> List[EmployeeContractInfo]:
+        return self.repository.get_active_employees(expiry_date)
+
