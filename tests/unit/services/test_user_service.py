@@ -25,9 +25,7 @@ def default_user():
 def test_create_user(repository, service, default_user):
     repository.add.return_value = default_user
 
-    result = service.create_user(
-        username="jdoe", password="******", role_id=2, employee_id=None
-    )
+    result = service.create_user(default_user)
 
     assert result.username == "jdoe"
     assert result.role_id == 2
@@ -64,21 +62,9 @@ def test_list_users(service, repository,default_user):
 
 
 def test_update_user(service, repository, default_user):
-    existing_user = User(
-        id=1, username="jdoe", password="******", role_id=1, employee_id=None
-    )
+    repository.update.return_value = default_user
 
-    repository.get_by_id.return_value = existing_user
-
-    updated_user = default_user
-
-    repository.update.return_value = updated_user
-
-    result = service.update_user(
-        user_id=1, username="jdoe", password="******", role_id=2,
-        employee_id=None
-    )
+    result = service.update_user(default_user)
 
     assert result.role_id == 2
-    repository.get_by_id.assert_called_once_with(1)
-    repository.update.assert_called_once()
+    repository.update.assert_called_once_with(default_user)

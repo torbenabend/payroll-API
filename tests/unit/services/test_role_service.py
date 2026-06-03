@@ -26,12 +26,7 @@ def default_role():
 def test_create_role(repository, service, default_role):
     repository.add.return_value = default_role
 
-    result = service.create_role(
-        role_name="Admin",
-        read_employee_data=True,
-        edit_employee_data=True,
-        process_payroll=True
-    )
+    result = service.create_role(default_role)
 
     assert result.role_name == "Admin"
     assert result.read_employee_data == True
@@ -50,27 +45,14 @@ def test_list_roles(service, repository,default_role):
 
 
 def test_update_role(service, repository, default_role):
-    existing_role = Role(
-        id=1, role_name="User", read_employee_data=False,
-        edit_employee_data=False, process_payroll=False
-    )
+    repository.update.return_value = default_role
 
-    repository.get_by_id.return_value = existing_role
-
-    updated_role = default_role
-
-    repository.update.return_value = updated_role
-
-    result = service.update_role(
-        role_id=1, role_name="Admin", read_employee_data=True,
-        edit_employee_data=True, process_payroll=True
-    )
+    result = service.update_role(default_role)
 
     assert result.role_name == "Admin"
     assert result.read_employee_data == True
 
-    repository.get_by_id.assert_called_once_with(1)
-    repository.update.assert_called_once()
+    repository.update.assert_called_once_with(default_role)
 
 
 def test_delete_role(repository, service, default_role):

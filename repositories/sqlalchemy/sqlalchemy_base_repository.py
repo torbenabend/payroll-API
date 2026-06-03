@@ -38,10 +38,12 @@ class SqlAlchemyBaseRepository(BaseRepository[T]):
             ]
         return None
 
-    def update(self, entity: T) -> T:
+    def update(self, entity: T) -> Optional[T]:
         update_data = entity.model_dump(exclude_unset=True)
         entity_db = self.session.get(self.model, entity.id)
-        for column, value in update_data.items():
-            setattr(entity_db, column, value)
-        self.session.commit()
-        return entity
+        if entity_db:
+            for column, value in update_data.items():
+                setattr(entity_db, column, value)
+            self.session.commit()
+            return self.schema.model_validate(entity_db)
+        return None

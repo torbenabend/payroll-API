@@ -28,11 +28,7 @@ def default_worklog():
 def test_create_worklog(repository, service, default_worklog):
     repository.add.return_value = default_worklog
 
-    result = service.create_worklog(
-        work_date=date(2026, 5, 1), hours_early_shift=8.0,
-        hours_late_shift=None, hours_night_shift=None, weekday="Sunday",
-        day_type=None, mission_related_allowance=0.0, employee_id=5
-    )
+    result = service.create_worklog(default_worklog)
 
     assert result.date.year == 2026
     assert result.hours_early_shift == 8.0
@@ -52,32 +48,15 @@ def test_list_worklogs(service, repository,default_worklog):
 
 
 def test_update_worklog(service, repository, default_worklog):
-    existing_worklog = WorkLog(
-        id=1, date=date(2026, 5, 1),
-        hours_early_shift=None, hours_late_shift=8.0, hours_night_shift=None,
-        weekday="Sunday", day_type=None, mission_related_allowance=1.0,
-        employee_id=5
-    )
+    repository.update.return_value = default_worklog
 
-    repository.get_by_id.return_value = existing_worklog
-
-    updated_worklog = default_worklog
-
-    repository.update.return_value = updated_worklog
-
-    result = service.update_worklog(
-        worklog_id=1,  work_date=date(2026, 5, 1),
-        hours_early_shift=8.0, hours_late_shift=None, hours_night_shift=None,
-        weekday="Sunday", day_type=None, mission_related_allowance=0.0,
-        employee_id=5
-    )
+    result = service.update_worklog(default_worklog)
 
     assert result.hours_early_shift == 8.0
     assert result.hours_late_shift is None
     assert result.mission_related_allowance == 0.0
 
-    repository.get_by_id.assert_called_once_with(1)
-    repository.update.assert_called_once()
+    repository.update.assert_called_once_with(default_worklog)
 
 
 def test_delete_worklog(repository, service, default_worklog):
