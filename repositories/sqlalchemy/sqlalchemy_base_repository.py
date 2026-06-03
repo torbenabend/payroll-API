@@ -21,7 +21,7 @@ class SqlAlchemyBaseRepository(BaseRepository[T]):
         return None
 
     def delete(self, entity_id: int) -> Optional[T]:
-        entity_db = self.get_by_id(entity_id)
+        entity_db = self.session.get(self.model, entity_id)
         if entity_db:
             self.session.delete(entity_db)
             self.session.commit()
