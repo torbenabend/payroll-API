@@ -28,7 +28,7 @@ class SqlAlchemyBaseRepository(BaseRepository[T]):
             return self.schema.model_validate(entity_db)
         return None
 
-    def get_entities(self) -> Optional[List[T]]:
+    def get_entities(self) -> List[T]:
         stmt = select(self.model)
         entities_db = self.session.execute(stmt).scalars().all()
         if entities_db:
@@ -36,7 +36,7 @@ class SqlAlchemyBaseRepository(BaseRepository[T]):
                 self.schema.model_validate(entity_db)
                 for entity_db in entities_db
             ]
-        return None
+        return []
 
     def update(self, entity: T) -> Optional[T]:
         update_data = entity.model_dump(exclude_unset=True)

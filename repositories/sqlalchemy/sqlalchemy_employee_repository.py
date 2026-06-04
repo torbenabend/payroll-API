@@ -32,4 +32,6 @@ class SqlAlchemyEmployeeRepository(
             )
         )
         rows = self.session.execute(stmt).mappings().all()
-        return [EmployeeContractInfo(**row) for row in rows]
+        if rows:
+            return [EmployeeContractInfo(**row) for row in rows]
+        return []
