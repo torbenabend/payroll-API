@@ -18,6 +18,7 @@ from services.contract_service import ContractService
 from repositories.sqlalchemy.sqlalchemy_contract_repository import \
     SqlAlchemyContractRepository
 from db.database import Session, engine, Base
+from models import Contract, Employee, Role, User, WorkLog
 
 
 def import_data(file_name: str) -> List[Dict]:
@@ -32,7 +33,7 @@ def create_demo_roles():
     repo = SqlAlchemyRoleRepository(Session())
     service = RoleService(repo)
     for role in roles:
-        service.create_role(**role)
+        service.create_role(Role(**role))
 
 
 def create_demo_employees():
@@ -41,7 +42,7 @@ def create_demo_employees():
     service = EmployeeService(repo)
 
     for employee in employees:
-        service.create_employee(**employee)
+        service.create_employee(Employee(**employee))
 
 
 def create_demo_admin_user():
@@ -50,7 +51,7 @@ def create_demo_admin_user():
     service = UserService(repo)
 
     for user in admin_user:
-        service.create_user(**user)
+        service.create_user(User(**user))
 
 
 def create_demo_users():
@@ -59,7 +60,7 @@ def create_demo_users():
     service = UserService(repo)
 
     for user in users:
-        service.create_user(**user)
+        service.create_user(User(**user))
 
 
 def create_demo_worklogs():
@@ -68,7 +69,7 @@ def create_demo_worklogs():
     service = WorkLogService(repo)
 
     for worklog in worklogs:
-        service.create_worklog(**worklog)
+        service.create_worklog(WorkLog(**worklog))
 
 
 def create_demo_contracts():
@@ -77,7 +78,7 @@ def create_demo_contracts():
     service = ContractService(repo)
 
     for contract in contracts:
-        service.create_contract(**contract)
+        service.create_contract(Contract(**contract))
 
 
 def seed_db():
