@@ -22,3 +22,15 @@ class WorkLogService:
 
     def update_worklog(self, worklog: WorkLog):
         return self.repository.update(worklog)
+
+    def get_employee_worklogs_by_month(
+            self,
+            employee_id: int,
+            month: int,
+            year: int
+    ) -> List[WorkLog]:
+        return self.repository.get_worklogs_by_employee_id_and_month(
+            employee_id,
+            month,
+            year
+        )

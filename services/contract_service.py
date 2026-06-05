@@ -21,3 +21,6 @@ class ContractService:
 
     def update_contract(self, contract: Contract) -> Contract:
         return self.repository.update(contract)
+
+    def get_employee_contracts(self, employee_id: int) -> List[Contract]:
+        return self.repository.get_contracts_by_employee_id(employee_id)
