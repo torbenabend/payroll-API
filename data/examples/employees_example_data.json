@@ -178,5 +178,23 @@
     "residence_permit_end": null,
     "payment_method": "Überweisung",
     "iban": "FR17 2323 5098 44VK YRKV ISRZ 533"
+  },
+  {
+    "last_name": "Mustermann",
+    "first_name": "Max",
+    "birth_date": "01/01/1990",
+    "tax_id": "12 345 678 9",
+    "social_security_number": "12 345678 M 9",
+    "street_name": "Musterstraße",
+    "house_number": "1",
+    "postal_code": "11111",
+    "city": "Musterstadt",
+    "tax_class": 1,
+    "child_allowance": 0,
+    "denomination": "evangelisch",
+    "work_permit_end": null,
+    "residence_permit_end": null,
+    "payment_method": "Überweisung",
+    "iban": "FR17 2323 5098 44VK YRKV ISRZ 533"
   }
 ]

@@ -78,5 +78,21 @@
     "fixed_salary": null,
     "hourly_rate": 25.00,
     "employee_id": 10
+  },
+  {
+    "contract_start": "01/02/2026",
+    "contract_end": "31/10/2026",
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 11
+  },
+  {
+    "contract_start": "01/02/2025",
+    "contract_end": "30/11/2025",
+    "salary_type": "Stundenlohn",
+    "fixed_salary": null,
+    "hourly_rate": 25.00,
+    "employee_id": 11
   }
 ]
