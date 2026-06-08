@@ -8,3 +8,4 @@ from models.schemas.contract import Contract
 from models.schemas.role import Role
 from models.schemas.user import User
 from models.schemas.worklog import WorkLog
+from models.schemas.payroll_report import PayrollReport

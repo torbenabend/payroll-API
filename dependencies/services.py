@@ -12,7 +12,8 @@ from services import (
     RoleService,
     UserService,
     WorkLogService,
-    ContractService
+    ContractService,
+    PayrollService
 )
 
 
@@ -34,3 +35,11 @@ def get_worklog_service(repo = Depends(get_sqlalchemy_worklog_repository)):
 
 def get_contract_service(repo = Depends(get_sqlalchemy_contract_repository)):
     return ContractService(repo)
+
+
+def get_payroll_service(
+        employee_repo = Depends(get_sqlalchemy_employee_repository),
+        contract_repo = Depends(get_sqlalchemy_contract_repository),
+        worklog_repo = Depends(get_sqlalchemy_worklog_repository)
+):
+    return PayrollService(employee_repo, contract_repo, worklog_repo)

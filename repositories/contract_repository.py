@@ -11,3 +11,12 @@ class ContractRepository(BaseRepository[Contract]):
     @abstractmethod
     def get_contracts_by_employee_id(self, employee_id: int) -> List[Contract]:
         pass
+
+    @abstractmethod
+    def get_active_contract(
+            self,
+            employee_id: int,
+            month: int,
+            year: int
+    ) -> Contract | None:
+        pass
