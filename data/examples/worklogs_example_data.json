@@ -6002,7 +6002,7 @@
   {
     "date": "01/05/2026",
     "weekday": "Freitag",
-    "day_type": "Feiertag",
+    "day_type": "Feiertag (bez.)",
     "hours_early_shift": 0.0,
     "hours_late_shift": 0.0,
     "hours_night_shift": 7.5,
@@ -6112,7 +6112,7 @@
   {
     "date": "14/05/2026",
     "weekday": "Donnerstag",
-    "day_type": "Feiertag",
+    "day_type": "Feiertag (bez.)",
     "hours_early_shift": 7.5,
     "hours_late_shift": 0.0,
     "hours_night_shift": 0.0,
@@ -6212,6 +6212,16 @@
   {
     "date": "28/05/2026",
     "weekday": "Donnerstag",
+    "day_type": null,
+    "hours_early_shift": 7.5,
+    "hours_late_shift": 0.0,
+    "hours_night_shift": 0.0,
+    "mission_related_allowance": 0.0,
+    "employee_id": 11
+  },
+  {
+    "date": "24/05/2026",
+    "weekday": "Sonntag",
     "day_type": null,
     "hours_early_shift": 7.5,
     "hours_late_shift": 0.0,
