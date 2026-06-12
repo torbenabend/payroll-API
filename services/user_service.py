@@ -21,3 +21,6 @@ class UserService:
 
     def update_user(self, user: User) -> User:
         return self.repository.update(user)
+
+    def get_user_by_username(self, username: str):
+        return self.repository.get_user_by_username(username)
