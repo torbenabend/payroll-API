@@ -5,6 +5,7 @@ from jwt.exceptions import InvalidTokenError
 
 from dependencies.services import get_user_service
 from models import User
+from models.enums.permissions import Permission
 from constants import SECRET_KEY, ALGORITHM
 from services import UserService
 from security import oauth2_scheme
@@ -30,3 +31,17 @@ def get_current_user(
     if user is None:
         raise credentials_exception
     return user
+
+
+def require_permission(permission: Permission):
+    def checker(
+            user: Annotated[User, Depends(get_current_user)],
+            service: Annotated[UserService, Depends(get_user_service)]
+    ):
+        if not service.has_permission(user.id, permission.value):
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="User has no permission"
+            )
+        return user
+    return checker

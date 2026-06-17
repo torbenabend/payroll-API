@@ -1,19 +1,32 @@
+from typing import Annotated
+
 from fastapi import APIRouter, Depends, HTTPException
 
-from models import WorkLog
+from models import WorkLog, User
+from models.enums import Permission
 from dependencies.services import get_worklog_service
+from dependencies.authentification import require_permission
 
 router = APIRouter(prefix="/worklogs", tags=["WorkLogs"])
 
 
 @router.get("")
-def list_worklogs(service = Depends(get_worklog_service)):
+def list_worklogs(
+        _: Annotated[
+            User,
+            Depends(require_permission(Permission.READ_EMPLOYEE_DATA))
+        ],
+        service = Depends(get_worklog_service)):
     return service.list_worklogs()
 
 
 @router.post("")
 def create_worklog(
         new_worklog: WorkLog,
+        _: Annotated[
+            User,
+            Depends(require_permission(Permission.EDIT_EMPLOYEE_DATA))
+        ],
         service = Depends(get_worklog_service)
 ):
     return service.create_worklog(new_worklog)
@@ -22,6 +35,10 @@ def create_worklog(
 @router.get("/{worklog_id}")
 def get_worklog(
         worklog_id: int,
+        _: Annotated[
+            User,
+            Depends(require_permission(Permission.READ_EMPLOYEE_DATA))
+        ],
         service = Depends(get_worklog_service)
 ):
     worklog = service.get_worklog(worklog_id)
@@ -36,6 +53,10 @@ def get_worklog(
 @router.delete("/{worklog_id}")
 def delete_worklog(
         worklog_id: int,
+        _: Annotated[
+            User,
+            Depends(require_permission(Permission.EDIT_EMPLOYEE_DATA))
+        ],
         service = Depends(get_worklog_service)
 ):
     deleted_worklog = service.delete_worklog(worklog_id)
@@ -50,6 +71,10 @@ def delete_worklog(
 @router.put("/{worklog_id}")
 def update_worklog(
         worklog: WorkLog,
+        _: Annotated[
+            User,
+            Depends(require_permission(Permission.EDIT_EMPLOYEE_DATA))
+        ],
         service = Depends(get_worklog_service)
 ):
     updated_worklog = service.update_worklog(worklog)

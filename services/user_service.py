@@ -24,3 +24,7 @@ class UserService:
 
     def get_user_by_username(self, username: str):
         return self.repository.get_user_by_username(username)
+
+    def has_permission(self, user_id: int, permission: str) -> bool:
+        user_role = self.repository.get_user_role(user_id)
+        return getattr(user_role, permission, False)
