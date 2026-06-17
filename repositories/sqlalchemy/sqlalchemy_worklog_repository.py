@@ -18,7 +18,6 @@ class SqlAlchemyWorkLogRepository(
             month: int,
             year: int
     ) -> List[WorkLog]:
-        print(f"month: {type(month)}, year: {type(year)}")
         stmt = select(WorkLogDB).where(
             WorkLogDB.employee_id == employee_id,
             extract("month", WorkLogDB.date) == month,
