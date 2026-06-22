@@ -19,7 +19,10 @@ class SqlAlchemyUserRepository(
         return None
 
     def get_user_role(self, user_id: int) -> Role | None:
-        user = self.get_by_id(user_id)
-        if user:
-            return Role.model_validate(user.role)
-        return None
+        stmt = select(self.model.role).where(UserDB.id == user_id)
+        result = self.session.execute(stmt).scalars().first()
+        return result
+        #user = self.get_by_id(user_id)
+        #if user:
+        #    return Role.model_validate(user.role)
+        #return None

@@ -13,5 +13,3 @@ class User(BaseModel):
 
     role_id: int
     employee_id: int | None = None
-
-    role: Role
