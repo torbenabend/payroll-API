@@ -1,13 +1,18 @@
+import os
 from datetime import datetime, timedelta, timezone
 
+from dotenv import load_dotenv
 from fastapi.security import OAuth2PasswordBearer
 import jwt
 from pwdlib import PasswordHash
 
 from services import UserService
 from models import User
-from constants import SECRET_KEY, ALGORITHM
 
+load_dotenv()
+
+SECRET_KEY = os.getenv("SECRET_KEY")
+ALGORITHM = os.getenv("ALGORITHM")
 
 password_hash = PasswordHash.recommended()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
