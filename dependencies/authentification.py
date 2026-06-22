@@ -1,3 +1,6 @@
+import os
+
+from dotenv import load_dotenv
 from typing import Annotated
 from fastapi import Depends, HTTPException, status
 import jwt
@@ -6,10 +9,12 @@ from jwt.exceptions import InvalidTokenError
 from dependencies.services import get_user_service
 from models import User
 from models.enums.permissions import Permission
-from constants import SECRET_KEY, ALGORITHM
 from services import UserService
 from security import oauth2_scheme
 
+
+SECRET_KEY = os.getenv("SECRET_KEY")
+ALGORITHM = os.getenv("ALGORITHM")
 
 def get_current_user(
         token: Annotated[str, Depends(oauth2_scheme)],
