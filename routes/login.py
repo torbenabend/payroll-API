@@ -9,9 +9,9 @@ from models.security import Token
 from dependencies.services import get_user_service
 from dependencies.authentification import get_current_user
 
-router = APIRouter(prefix="/login", tags=["Login"])
+router = APIRouter(prefix="/token", tags=["Login"])
 
-@router.post("/token")
+@router.post("/")
 def login_for_access_token(
         form_data: Annotated[OAuth2PasswordRequestForm, Depends()],
         service = Depends(get_user_service)
